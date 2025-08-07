@@ -1,9 +1,8 @@
 <div dir='rtl'>
 
-### n8n+Ollama+DeepSeek+Docker
+# n8n & Ollama & DeepSeek on local by Docker
 
----
-
+![](./learn%20pic/n8n.png)
 ## 1. معرفی پروژه (Project Overview)
 
 این پروژه اتصال بین ابزار اتوماسیون ورک‌فلو **n8n** (که درون Docker و پشت reverse proxy مانند **Traefik** اجرا می‌شود) و مدل‌های هوش مصنوعی اجراشده توسط **Ollama (نسخه 0.5.7)** روی سیستم لوکال لینوکسی را فراهم می‌کند.
